@@ -1,4 +1,4 @@
-name: GameCI Template 🎮
+name: GameCI  - WebGL 🎮
 
 on:
   workflow_dispatch: {}
